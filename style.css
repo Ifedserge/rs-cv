@@ -1,0 +1,29 @@
+.name {
+  font-size: 26px;
+  text-decoration: underline;
+  border: 5px none #000;
+  background: #ffa500;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+.table {
+  margin: auto;
+  width: 50%;
+}
+.myself {
+  font-size: 16px;
+  text-align: justify;
+}
+.list {
+  text-align: left;
+}
+.skills {
+  text-align: left;
+}
+.table2 {
+  width: 280px;
+  background-color: #bbbbbb;
+  text-align: left;
+}
